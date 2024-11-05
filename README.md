@@ -7,25 +7,30 @@ Sales Performance Analysis for a Retail Store Incubator Hub Project
 - My dataset was clean and ready and read to use
 - I proceeded to do the project task where I was to summarise the total sales by products, region and month.
 
-## Total Sales by Products
+### Total Sales by Products
 - I created a row called "Total Sales" on the SALESDATAtable using the forumlar, "Quantity * UnitPrice.
 - I proceeded to creating the pivot tables where I dragged "Product" to ROW and "TotalSales" to VALUES  under the pivot table filter and I got the total sales by Products
 
-## Total Sales by Region
+### Total Sales by Region
 - I proceeded to creating the pivot tables where I dragged "REGION" to ROWS and "TotalSales" to VALUES  under the pivot table filter and I got the total sales by Region.
 
-## Total Sales by Month
-- I created a Row called "MonthName" on the SALESDATAtable using the forumlar, =TEXT(OrderDate. "mmmm")
+### Total Sales by Month
+- I created a Row called "MonthName" on the SALESDATAtable using the forumlar,
+  
+```SQL
+=TEXT(OrderDate, "mmmm")
+```
+
 - I proceeded to creating the pivot tables where I dragged "Months" to ROW and "TotalSales" to VALUES  under the pivot table filter and I got the total sales by Products
 
-## Average Sales per Product
+### Average Sales per Product
 - I calculated the average sales by using the AVERAGEGIF function for each product.
 
-## Total Revenue by Region
+### Total Revenue by Region
 - Total revenuwe by region was calculated using the SUMIF function.
 
 
-## Interesting Report
+### Interesting Report
 - I used Delimiter function to divide the OrderDate into its components: Day, Month and Year creating individual rows
 - I used the pivottable to cheeck for the products that were ordered the most during festive season (December)
 
