@@ -8,7 +8,11 @@ Sales Performance Analysis for a Retail Store Incubator Hub Project
 - I proceeded to do the project task where I was to summarise the total sales by products, region and month.
 
 ### Total Sales by Products
-- I created a row called "Total Sales" on the SALESDATAtable using the forumlar, "Quantity * UnitPrice.
+- I created a row called "Total Sales" on the SALESDATAtable using the forumlar,
+
+ ```
+TOTAL SALES = (Quantity * UnitPrice.)
+```
 - I proceeded to creating the pivot tables where I dragged "Product" to ROW and "TotalSales" to VALUES  under the pivot table filter and I got the total sales by Products
 
 ### Total Sales by Region
