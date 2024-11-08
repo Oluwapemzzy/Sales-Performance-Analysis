@@ -33,6 +33,7 @@ TOTAL SALES = (Quantity * UnitPrice.)
 ![Month Demiliter](https://github.com/user-attachments/assets/d753c1ba-09f8-4f13-8b86-1d4f8edb2a76)
 
 - I proceeded to creating the pivot tables where I dragged "Months" to ROW and "TotalSales" to VALUES  under the pivot table filter and I got the total sales by Products
+
 ![Total Sales by Month](https://github.com/user-attachments/assets/a6f148f3-1a29-448d-8663-f3bf5570a214)
 
 ### Average Sales per Product
@@ -80,6 +81,10 @@ I used Microsoft Sql Server Management Studio to write and validate my queries. 
 
 7. Find the top 5 customers by total purchase amount.
 
+![Top 5](https://github.com/user-attachments/assets/d6d584ba-0d37-4d7c-b7a8-ffed79d898b5)
+
 8. Calculate the percentage of total sales contributed by each region.
+
+![Percentage Total](https://github.com/user-attachments/assets/4d01c0eb-bc65-4cbf-b02a-4628418afa33)
 
 
