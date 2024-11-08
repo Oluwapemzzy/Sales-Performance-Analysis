@@ -37,12 +37,14 @@ TOTAL SALES = (Quantity * UnitPrice.)
 
 ### Average Sales per Product
 - I calculated the average sales by using the AVERAGEGIF function for each product.
+  
 
   ![Average Sales Per Product](https://github.com/user-attachments/assets/3a2cb4cc-e128-4b2b-a4df-20f24830c128)
 
 
 ### Total Revenue by Region
-- Total revenuwe by region was calculated using the SUMIF function.
+
+- Total revenue by region was calculated using the SUMIF function.
 
   ![Total Revenue by Region](https://github.com/user-attachments/assets/d491442f-6ae8-4f12-9b98-1e963a4f527c)
 
@@ -57,7 +59,27 @@ TOTAL SALES = (Quantity * UnitPrice.)
 I used Microsoft Sql Server Management Studio to write and validate my queries. The followig were solved using SQL
 
 1. Retrieve the total sales for each product category.
+   
 ![Sales Retrieval](https://github.com/user-attachments/assets/73e80024-9fac-479a-b310-54942d14b995)
 
-2.
+2. Find the number of sales transactions in each region.
+
+ ![No of Sales Transaction](https://github.com/user-attachments/assets/ccf79805-2ced-4ea0-932b-cd6777c83737)
+
+3. Find the highest-selling product by total sales value.
+
+![Highest Selling Product by Total Sales](https://github.com/user-attachments/assets/08050188-49c8-4964-ba20-a59705a28299)
+
+4. Calculate total revenue per product.
+
+![Total Revenue by Product](https://github.com/user-attachments/assets/bf4bba5b-5fd1-43bb-9894-02acbcbf39e5)
+
+5. Calculate monthly sales totals for the current year.
+
+![Monthly Sles for the Cureent Year](https://github.com/user-attachments/assets/6690ce94-7960-4ffa-b36c-985a851884b5)
+
+7. Find the top 5 customers by total purchase amount.
+
+8. Calculate the percentage of total sales contributed by each region.
+
 
