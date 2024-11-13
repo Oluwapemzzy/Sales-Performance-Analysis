@@ -94,6 +94,13 @@ I used Microsoft Power BI to visualise my Excel and SQL result by creating a das
 
 1. Top-Performing Products - I used a bar chart to visualise the top-performing products with Sum of Sales on my Y-axis and Procuct table on my X-axis.
 
-![Sales by Product](https://github.com/user-attachments/assets/f440e4a8-c168-4e23-8a90-eeaf900d0f09)
+   ![Sales by Product](https://github.com/user-attachments/assets/f440e4a8-c168-4e23-8a90-eeaf900d0f09)
 
-2. Regional Breakdowns
+2. Regional Breakdowns - I got the Regional Breakdown by using Slicers on my code so that way I can montior my sales patterns  based onthe region.
+
+   ![Regional Breakdown](https://github.com/user-attachments/assets/2f34378e-22f3-4f88-9316-560897dd7c52)
+
+3. Sales Overview - To get my sales overview, I made use of Line charts to measure sum of sales(Y-axis) against Month name (X-axis), Card to get my Sum of Sales, bar chart to get my top-performing products and I made use 
+   of Slicer to get the regional breakdown and yearly breakdown.
+
+   ![Sales Overview](https://github.com/user-attachments/assets/11a639a0-b684-4412-91a2-4600a76459e9)
