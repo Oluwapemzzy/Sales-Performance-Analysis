@@ -1,4 +1,4 @@
-# Sales-Performance-Analysis
+# Sales Performance Analysis
 Sales Performance Analysis for a Retail Store Incubator Hub Project
 
 ## MICROSOFT EXCEL STEPS
@@ -93,4 +93,7 @@ I used Microsoft Sql Server Management Studio to write and validate my queries. 
 I used Microsoft Power BI to visualise my Excel and SQL result by creating a dashboard which includes sales overview, top-performing products, and regional breakdowns.
 
 1. Top-Performing Products - I used a bar chart to visualise the top-performing products with Sum of Sales on my Y-axis and Procuct table on my X-axis.
+
+![Sales by Product](https://github.com/user-attachments/assets/f440e4a8-c168-4e23-8a90-eeaf900d0f09)
+
 2. Regional Breakdowns
